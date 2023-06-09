@@ -1,5 +1,4 @@
 getIMC = () =>{
-    console.log(123)
 
     const peso = document.getElementById("peso").value;
     const altura = document.getElementById("altura").value/100;
